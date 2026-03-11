@@ -1,0 +1,319 @@
+date,month,day_of_week,hour,my_color,my_rating,opp_username,opp_rating,rating_diff,result,result_detail,time_class,time_control,opening,eco,eco_family,num_moves,termination,win,loss,draw,opp_range
+2025-01-01,2025-01,Wednesday,14,Black,217,just_damn,250,-33,Loss,timeout,Rapid,600,Unknown,A40,A,17,just_damn won on time,0,1,0,<600
+2025-01-04,2025-01,Saturday,12,White,209,AppleCakeOG,213,-4,Loss,abandoned,Rapid,600,Unknown,A00,A,18,AppleCakeOG won - game abandoned,0,1,0,<600
+2025-01-04,2025-01,Saturday,12,Black,201,akshayredd99,208,-7,Loss,resigned,Rapid,600,Unknown,B00,B,19,akshayredd99 won by resignation,0,1,0,<600
+2025-01-04,2025-01,Saturday,14,Black,209,Victreux,211,-2,Win,win,Rapid,600,Unknown,B00,B,32,zeagel_og won on time,1,0,0,<600
+2025-01-04,2025-01,Saturday,15,White,217,Wsang0,191,26,Win,win,Rapid,600,Unknown,A00,A,18,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-05,2025-01,Sunday,21,White,225,fremontcherry,202,23,Win,win,Rapid,600,Unknown,A00,A,49,zeagel_og won on time,1,0,0,<600
+2025-01-05,2025-01,Sunday,21,Black,218,Fallenw0lf,254,-36,Loss,checkmated,Rapid,600,Unknown,A00,A,4,Fallenw0lf won by checkmate,0,1,0,<600
+2025-01-05,2025-01,Sunday,21,Black,210,MIK_1991,243,-33,Loss,timeout,Rapid,600,Unknown,A00,A,80,MIK_1991 won on time,0,1,0,<600
+2025-01-05,2025-01,Sunday,21,White,218,IceCreamIsFunny,217,1,Win,win,Rapid,600,Unknown,A00,A,21,zeagel_og won by resignation,1,0,0,<600
+2025-01-05,2025-01,Sunday,21,White,226,romain83310,203,23,Win,win,Rapid,600,Unknown,A00,A,10,zeagel_og won by resignation,1,0,0,<600
+2025-01-05,2025-01,Sunday,22,Black,218,michaljaneczko100,216,2,Loss,checkmated,Rapid,600,Unknown,B00,B,26,michaljaneczko100 won by checkmate,0,1,0,<600
+2025-01-06,2025-01,Monday,6,White,226,hyklsptra,204,22,Win,win,Rapid,600,Unknown,A00,A,7,zeagel_og won by resignation,1,0,0,<600
+2025-01-06,2025-01,Monday,6,White,218,Pilek143,236,-18,Loss,timeout,Rapid,600,Unknown,A00,A,66,Pilek143 won on time,0,1,0,<600
+2025-01-06,2025-01,Monday,6,Black,210,mcercone,205,5,Loss,timeout,Rapid,600,Unknown,B00,B,40,mcercone won on time,0,1,0,<600
+2025-01-06,2025-01,Monday,20,White,202,Bernardo115,212,-10,Loss,checkmated,Rapid,600,Unknown,A00,A,28,Bernardo115 won by checkmate,0,1,0,<600
+2025-01-06,2025-01,Monday,20,Black,210,Pean_ts,182,28,Win,win,Rapid,600,Unknown,B00,B,36,zeagel_og won by checkmate,1,0,0,<600
+2025-01-06,2025-01,Monday,20,White,202,halfil_1,201,1,Loss,checkmated,Rapid,600,Unknown,A00,A,56,halfil_1 won by checkmate,0,1,0,<600
+2025-01-06,2025-01,Monday,20,White,194,domenovakk,199,-5,Loss,resigned,Rapid,600,Unknown,A00,A,36,domenovakk won by resignation,0,1,0,<600
+2025-01-08,2025-01,Wednesday,11,Black,186,AlexFlynn3,219,-33,Loss,abandoned,Rapid,600,Unknown,B00,B,6,AlexFlynn3 won - game abandoned,0,1,0,<600
+2025-01-08,2025-01,Wednesday,11,Black,194,christiananiciete,164,30,Win,win,Rapid,600,Unknown,B00,B,39,zeagel_og won by resignation,1,0,0,<600
+2025-01-08,2025-01,Wednesday,11,Black,202,drottl,167,35,Win,win,Rapid,600,Unknown,B00,B,60,zeagel_og won by checkmate,1,0,0,<600
+2025-01-08,2025-01,Wednesday,11,White,194,oceswt,217,-23,Loss,timeout,Rapid,600,Unknown,A00,A,45,oceswt won on time,0,1,0,<600
+2025-01-08,2025-01,Wednesday,12,Black,202,Nxkdmm_MG,189,13,Win,win,Rapid,600,Unknown,B02,B,66,zeagel_og won by checkmate,1,0,0,<600
+2025-01-08,2025-01,Wednesday,12,White,202,Abhishek_Makkena,221,-19,Draw,insufficient,Rapid,600,Unknown,A00,A,69,Game drawn by insufficient material,0,0,1,<600
+2025-01-08,2025-01,Wednesday,12,Black,194,Vincentdenis,193,1,Loss,checkmated,Rapid,600,Unknown,B00,B,4,Vincentdenis won by checkmate,0,1,0,<600
+2025-01-10,2025-01,Friday,12,Black,186,scoobertdoo420,182,4,Loss,checkmated,Rapid,600,Unknown,B00,B,4,scoobertdoo420 won by checkmate,0,1,0,<600
+2025-01-10,2025-01,Friday,12,White,194,trexdestroyer,176,18,Win,win,Rapid,600,Unknown,A00,A,22,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-10,2025-01,Friday,12,White,202,killerdon53,173,29,Win,win,Rapid,600,Unknown,A00,A,47,zeagel_og won by resignation,1,0,0,<600
+2025-01-10,2025-01,Friday,12,White,210,Nullzyn,209,1,Win,win,Rapid,600,Unknown,A00,A,19,zeagel_og won by resignation,1,0,0,<600
+2025-01-10,2025-01,Friday,12,Black,202,likhithreddy108,236,-34,Loss,checkmated,Rapid,600,Unknown,B00,B,5,likhithreddy108 won by checkmate,0,1,0,<600
+2025-01-10,2025-01,Friday,13,Black,194,M-Jasvanth,223,-29,Loss,checkmated,Rapid,600,Unknown,B00,B,46,M-Jasvanth won by checkmate,0,1,0,<600
+2025-01-10,2025-01,Friday,13,Black,202,KoolKatt_95,194,8,Win,win,Rapid,600,Unknown,A15,A,22,zeagel_og won by resignation,1,0,0,<600
+2025-01-10,2025-01,Friday,13,White,210,prezende001,196,14,Win,win,Rapid,600,Unknown,A00,A,19,zeagel_og won on time,1,0,0,<600
+2025-01-10,2025-01,Friday,13,White,209,maverick_avgeek,186,23,Draw,stalemate,Rapid,600,Unknown,A00,A,48,Game drawn by stalemate,0,0,1,<600
+2025-01-10,2025-01,Friday,13,Black,217,sangeetha_1807,203,14,Win,win,Rapid,600,Unknown,B00,B,72,zeagel_og won on time,1,0,0,<600
+2025-01-10,2025-01,Friday,13,White,209,atuamaede4naminhacma,233,-24,Loss,checkmated,Rapid,600,Unknown,A00,A,11,atuamaede4naminhacma won by checkmate,0,1,0,<600
+2025-01-10,2025-01,Friday,13,White,217,Sahilll_09,220,-3,Win,win,Rapid,600,Unknown,A00,A,10,zeagel_og won by resignation,1,0,0,<600
+2025-01-10,2025-01,Friday,14,Black,209,upoma_12,213,-4,Loss,resigned,Rapid,600,Unknown,B00,B,41,upoma_12 won by resignation,0,1,0,<600
+2025-01-11,2025-01,Saturday,6,White,216,Francesco_800,157,59,Win,win,Rapid,600,Unknown,A00,A,36,zeagel_og won by resignation,1,0,0,<600
+2025-01-11,2025-01,Saturday,6,Black,208,dieutuong,231,-23,Loss,checkmated,Rapid,600,Unknown,A00,A,32,dieutuong won by checkmate,0,1,0,<600
+2025-01-11,2025-01,Saturday,15,Black,200,zed2024p,228,-28,Loss,abandoned,Rapid,600,Unknown,B00,B,12,zed2024p won - game abandoned,0,1,0,<600
+2025-01-14,2025-01,Tuesday,13,Black,192,Goswamimadhav,200,-8,Loss,resigned,Rapid,600,Unknown,B00,B,9,Goswamimadhav won by resignation,0,1,0,<600
+2025-01-14,2025-01,Tuesday,14,White,184,Raman777i,214,-30,Loss,checkmated,Rapid,600,Unknown,A00,A,10,Raman777i won by checkmate,0,1,0,<600
+2025-01-14,2025-01,Tuesday,14,White,176,crazycody465,213,-37,Loss,checkmated,Rapid,600,Unknown,A00,A,26,crazycody465 won by checkmate,0,1,0,<600
+2025-01-16,2025-01,Thursday,6,Black,184,lfk79,170,14,Win,win,Rapid,600,Unknown,B00,B,44,zeagel_og won by resignation,1,0,0,<600
+2025-01-17,2025-01,Friday,9,White,192,Rani140981,176,16,Win,win,Rapid,600,Unknown,A00,A,15,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-17,2025-01,Friday,9,Black,201,xxxfreexxx1234,205,-4,Win,win,Rapid,600,Unknown,B00,B,45,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-17,2025-01,Friday,9,Black,209,SatyamKumarRaghuwanshi,200,9,Win,win,Rapid,600,Unknown,A00,A,45,zeagel_og won by resignation,1,0,0,<600
+2025-01-17,2025-01,Friday,10,White,201,delto38,200,1,Loss,timeout,Rapid,600,Unknown,A00,A,30,delto38 won on time,0,1,0,<600
+2025-01-17,2025-01,Friday,12,Black,193,Rokkogo,195,-2,Loss,abandoned,Rapid,600,Unknown,B00,B,16,Rokkogo won - game abandoned,0,1,0,<600
+2025-01-18,2025-01,Saturday,7,White,185,Mushfiq_Muntasir979,194,-9,Loss,timeout,Rapid,600,Unknown,A00,A,47,Mushfiq_Muntasir979 won on time,0,1,0,<600
+2025-01-18,2025-01,Saturday,7,Black,185,Mushfiq_Muntasir979,194,-9,Draw,repetition,Rapid,600,Unknown,A00,A,60,Game drawn by repetition,0,0,1,<600
+2025-01-18,2025-01,Saturday,7,White,193,swaroopdonty,177,16,Win,win,Rapid,600,Unknown,A00,A,12,zeagel_og won by resignation,1,0,0,<600
+2025-01-18,2025-01,Saturday,8,Black,185,lu68blues,202,-17,Loss,abandoned,Rapid,600,Unknown,A00,A,16,lu68blues won - game abandoned,0,1,0,<600
+2025-01-19,2025-01,Sunday,11,White,177,eaamonnf1,199,-22,Loss,resigned,Rapid,600,Unknown,A00,A,24,eaamonnf1 won by resignation,0,1,0,<600
+2025-01-19,2025-01,Sunday,11,Black,185,Vaibhav4032,156,29,Win,win,Rapid,600,Unknown,B02,B,12,zeagel_og won by resignation,1,0,0,<600
+2025-01-19,2025-01,Sunday,12,White,193,maninder7070,183,10,Win,win,Rapid,600,Unknown,A00,A,18,zeagel_og won on time,1,0,0,<600
+2025-01-19,2025-01,Sunday,12,Black,185,umbra66,182,3,Loss,abandoned,Rapid,600,Unknown,A45,A,7,umbra66 won - game abandoned,0,1,0,<600
+2025-01-19,2025-01,Sunday,12,White,177,kuikwore,185,-8,Loss,abandoned,Rapid,600,Unknown,A00,A,17,kuikwore won - game abandoned,0,1,0,<600
+2025-01-19,2025-01,Sunday,12,Black,185,josnptt,161,24,Win,win,Rapid,600,Unknown,A00,A,41,zeagel_og won by resignation,1,0,0,<600
+2025-01-19,2025-01,Sunday,12,White,194,Anggetite,182,12,Win,win,Rapid,600,Unknown,A00,A,24,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-19,2025-01,Sunday,12,White,202,Iksralos,192,10,Win,win,Rapid,600,Unknown,A00,A,44,zeagel_og won by resignation,1,0,0,<600
+2025-01-19,2025-01,Sunday,13,Black,210,Intxaustegui,194,16,Win,win,Rapid,600,Unknown,A00,A,14,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-19,2025-01,Sunday,13,Black,210,nawazmg,216,-6,Draw,insufficient,Rapid,600,Unknown,B02,B,62,Game drawn by insufficient material,0,0,1,<600
+2025-01-19,2025-01,Sunday,13,White,201,Moere31,199,2,Loss,checkmated,Rapid,600,Unknown,A06,A,23,Moere31 won by checkmate,0,1,0,<600
+2025-01-19,2025-01,Sunday,16,Black,209,vinothpossible,175,34,Win,win,Rapid,600,Unknown,B00,B,6,zeagel_og won by resignation,1,0,0,<600
+2025-01-19,2025-01,Sunday,16,White,201,Favelini,201,0,Loss,resigned,Rapid,600,Unknown,A00,A,42,Favelini won by resignation,0,1,0,<600
+2025-01-19,2025-01,Sunday,16,Black,210,bootmarine,216,-6,Win,win,Rapid,600,Unknown,A45,A,2,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-19,2025-01,Sunday,16,Black,202,himanshushekhar65,207,-5,Loss,abandoned,Rapid,600,Unknown,A05,A,32,himanshushekhar65 won - game abandoned,0,1,0,<600
+2025-01-21,2025-01,Tuesday,3,White,202,ravitheja718,216,-14,Draw,stalemate,Rapid,600,Unknown,A00,A,51,Game drawn by stalemate,0,0,1,<600
+2025-01-24,2025-01,Friday,0,White,194,cilalotus,225,-31,Loss,checkmated,Rapid,600,Unknown,A00,A,40,cilalotus won by checkmate,0,1,0,<600
+2025-01-24,2025-01,Friday,0,White,186,DiegoFPradaG,216,-30,Loss,abandoned,Rapid,600,Unknown,A00,A,17,DiegoFPradaG won - game abandoned,0,1,0,<600
+2025-01-24,2025-01,Friday,0,Black,193,stiffey,128,65,Win,win,Rapid,600,Unknown,A46,A,68,zeagel_og won by checkmate,1,0,0,<600
+2025-01-24,2025-01,Friday,0,White,185,nelly21234,183,2,Loss,checkmated,Rapid,600,Unknown,A00,A,74,nelly21234 won by checkmate,0,1,0,<600
+2025-01-24,2025-01,Friday,0,Black,193,yungleandoer96,169,24,Win,win,Rapid,600,Unknown,A00,A,11,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-24,2025-01,Friday,0,Black,202,colbybolby123,220,-18,Win,win,Rapid,600,Unknown,A45,A,26,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-26,2025-01,Sunday,9,White,210,ianorbedia1,178,32,Win,win,Rapid,600,Unknown,A00,A,35,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-26,2025-01,Sunday,9,White,217,gustouille,167,50,Win,win,Rapid,600,Unknown,A00,A,14,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,9,Black,225,KatGirl1992,197,28,Win,win,Rapid,600,Unknown,A40,A,36,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,10,White,217,fareouche95,241,-24,Loss,checkmated,Rapid,600,Unknown,A00,A,14,fareouche95 won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,10,Black,226,firstTime9,233,-7,Win,win,Rapid,600,Unknown,A40,A,59,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,10,Black,234,Divyarajsinhvala,210,24,Win,win,Rapid,600,Unknown,B02,B,63,zeagel_og won by checkmate,1,0,0,<600
+2025-01-26,2025-01,Sunday,10,White,242,FreedomBright,222,20,Win,win,Rapid,600,Unknown,A00,A,24,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,10,White,235,Muhammad-zain-ul-abdin,274,-39,Loss,checkmated,Rapid,600,Unknown,A00,A,55,Muhammad-zain-ul-abdin won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,10,Black,227,CampbellR0se,228,-1,Loss,checkmated,Rapid,600,Unknown,B00,B,42,CampbellR0se won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,10,White,227,hyansoeung,230,-3,Draw,stalemate,Rapid,600,Unknown,A00,A,65,Game drawn by stalemate,0,0,1,<600
+2025-01-26,2025-01,Sunday,11,Black,235,hyansoeung,222,13,Win,win,Rapid,600,Unknown,B02,B,16,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,11,Black,235,MS262,246,-11,Draw,stalemate,Rapid,600,Unknown,B00,B,70,Game drawn by stalemate,0,0,1,<600
+2025-01-26,2025-01,Sunday,11,White,227,billy19191,225,2,Loss,checkmated,Rapid,600,Unknown,A00,A,51,billy19191 won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,11,White,219,solmont25,245,-26,Loss,resigned,Rapid,600,Unknown,A00,A,18,solmont25 won by resignation,0,1,0,<600
+2025-01-26,2025-01,Sunday,11,Black,227,ministermahesh,230,-3,Win,win,Rapid,600,Unknown,A00,A,16,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-26,2025-01,Sunday,11,White,227,kytrixx,230,-3,Draw,stalemate,Rapid,600,Unknown,A00,A,58,Game drawn by stalemate,0,0,1,<600
+2025-01-26,2025-01,Sunday,11,Black,227,narottam001,222,5,Draw,agreed,Rapid,600,Unknown,B02,B,78,Game drawn by agreement,0,0,1,<600
+2025-01-26,2025-01,Sunday,12,Black,227,jmorto67,229,-2,Draw,stalemate,Rapid,600,Unknown,B00,B,65,Game drawn by stalemate,0,0,1,<600
+2025-01-26,2025-01,Sunday,12,White,226,ehsanvp74,205,21,Draw,insufficient,Rapid,600,Unknown,A00,A,67,Game drawn by insufficient material,0,0,1,<600
+2025-01-26,2025-01,Sunday,12,Black,218,25Sarvesh,249,-31,Loss,checkmated,Rapid,600,Unknown,B00,B,42,25Sarvesh won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,12,White,226,Otabek500,192,34,Win,win,Rapid,600,Unknown,A00,A,24,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,12,White,218,Mrjayye,219,-1,Loss,timeout,Rapid,600,Unknown,A00,A,26,Mrjayye won on time,0,1,0,<600
+2025-01-26,2025-01,Sunday,13,White,210,orkasteil,218,-8,Loss,checkmated,Rapid,600,Unknown,A06,A,38,orkasteil won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,13,Black,202,KevinTir,238,-36,Loss,checkmated,Rapid,600,Unknown,A40,A,28,KevinTir won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,13,Black,210,debutant_49,207,3,Win,win,Rapid,600,Unknown,B00,B,29,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,13,White,202,RICHARDSCHWEEBUS,228,-26,Loss,checkmated,Rapid,600,Unknown,A00,A,15,RICHARDSCHWEEBUS won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,13,Black,194,lubell1980,216,-22,Loss,checkmated,Rapid,600,Unknown,A45,A,33,lubell1980 won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,13,White,202,R-A-G-H-U,173,29,Win,win,Rapid,600,Unknown,A00,A,13,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,14,Black,210,Kishore9114,192,18,Win,win,Rapid,600,Unknown,B02,B,32,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-26,2025-01,Sunday,14,White,218,sumit626,202,16,Win,win,Rapid,600,Unknown,A00,A,13,zeagel_og won - game abandoned,1,0,0,<600
+2025-01-26,2025-01,Sunday,14,White,210,fesooo12,232,-22,Loss,checkmated,Rapid,600,Unknown,A00,A,21,fesooo12 won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,14,Black,202,LaMariaFP,211,-9,Loss,checkmated,Rapid,600,Unknown,B02,B,11,LaMariaFP won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,15,Black,202,Arman7B28,217,-15,Draw,insufficient,Rapid,600,Unknown,C00,C,59,Game drawn by insufficient material,0,0,1,<600
+2025-01-26,2025-01,Sunday,15,Black,210,unknownmortall,198,12,Win,win,Rapid,600,Unknown,B00,B,39,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,15,White,210,Ron-folder,192,18,Draw,stalemate,Rapid,600,Unknown,A00,A,64,Game drawn by stalemate,0,0,1,<600
+2025-01-26,2025-01,Sunday,15,White,217,adrrrt,169,48,Win,win,Rapid,600,Unknown,A00,A,13,zeagel_og won by resignation,1,0,0,<600
+2025-01-26,2025-01,Sunday,15,Black,209,BhagatSingh-legend,229,-20,Loss,checkmated,Rapid,600,Unknown,A00,A,27,BhagatSingh-legend won by checkmate,0,1,0,<600
+2025-01-26,2025-01,Sunday,15,White,201,Squalous,217,-16,Loss,resigned,Rapid,600,Unknown,A00,A,7,Squalous won by resignation,0,1,0,<600
+2025-01-27,2025-01,Monday,15,Black,209,MFMS90,176,33,Win,win,Rapid,600,Unknown,B02,B,40,zeagel_og won by resignation,1,0,0,<600
+2025-01-27,2025-01,Monday,15,White,202,firstplacetaste,238,-36,Loss,checkmated,Rapid,600,Unknown,A00,A,34,firstplacetaste won by checkmate,0,1,0,<600
+2025-01-27,2025-01,Monday,15,Black,210,marcusanusca,176,34,Win,win,Rapid,600,Unknown,A45,A,29,zeagel_og won by resignation,1,0,0,<600
+2025-01-27,2025-01,Monday,15,Black,218,Brianswanage,185,33,Win,win,Rapid,600,Unknown,A45,A,64,zeagel_og won by checkmate,1,0,0,<600
+2025-01-27,2025-01,Monday,16,White,210,OlimpusIrenk,234,-24,Loss,checkmated,Rapid,600,Unknown,A00,A,51,OlimpusIrenk won by checkmate,0,1,0,<600
+2025-01-27,2025-01,Monday,16,Black,210,kararhaider55,207,3,Draw,stalemate,Rapid,600,Unknown,A45,A,50,Game drawn by stalemate,0,0,1,<600
+2025-01-27,2025-01,Monday,16,White,203,Zebrasom,239,-36,Loss,abandoned,Rapid,600,Unknown,A00,A,26,Zebrasom won - game abandoned,0,1,0,<600
+2025-02-03,2025-02,Monday,20,White,203,gomezk10,223,-20,Draw,stalemate,Rapid,600,Unknown,A00,A,39,Game drawn by stalemate,0,0,1,<600
+2025-02-25,2025-02,Tuesday,9,Black,211,MRishard,209,2,Win,win,Rapid,600,Unknown,B00,B,45,zeagel_og won by resignation,1,0,0,<600
+2025-02-25,2025-02,Tuesday,9,White,203,Chagannn,213,-10,Loss,checkmated,Rapid,600,Unknown,A00,A,8,Chagannn won by checkmate,0,1,0,<600
+2025-02-25,2025-02,Tuesday,10,Black,212,aditya_s07,216,-4,Win,win,Rapid,600,Unknown,A45,A,68,zeagel_og won on time,1,0,0,<600
+2025-02-25,2025-02,Tuesday,10,Black,205,cyb3rsagnik,264,-59,Loss,checkmated,Rapid,600,Unknown,A00,A,41,cyb3rsagnik won by checkmate,0,1,0,<600
+2025-03-09,2025-03,Sunday,16,White,213,Jayckelly,208,5,Win,win,Rapid,600,Unknown,A00,A,59,zeagel_og won by resignation,1,0,0,<600
+2025-03-09,2025-03,Sunday,16,Black,204,illmarig,205,-1,Loss,abandoned,Rapid,600,Unknown,B02,B,9,illmarig won - game abandoned,0,1,0,<600
+2025-03-31,2025-03,Monday,12,White,196,kln772,231,-35,Loss,abandoned,Rapid,600,Unknown,A00,A,7,kln772 won - game abandoned,0,1,0,<600
+2025-03-31,2025-03,Monday,12,White,188,zinzinking,214,-26,Loss,checkmated,Rapid,600,Unknown,A00,A,42,zinzinking won by checkmate,0,1,0,<600
+2025-03-31,2025-03,Monday,13,White,180,piotr345,192,-12,Loss,checkmated,Rapid,600,Unknown,A04,A,35,piotr345 won by checkmate,0,1,0,<600
+2025-03-31,2025-03,Monday,13,Black,172,chessyjesse420,179,-7,Loss,timeout,Rapid,600,Unknown,B03,B,60,chessyjesse420 won on time,0,1,0,<600
+2025-03-31,2025-03,Monday,13,Black,180,Kemonzz,153,27,Win,win,Rapid,600,Unknown,A00,A,21,zeagel_og won by resignation,1,0,0,<600
+2025-03-31,2025-03,Monday,13,White,188,HIIIROZ,164,24,Win,win,Rapid,600,Unknown,A00,A,21,zeagel_og won by resignation,1,0,0,<600
+2025-03-31,2025-03,Monday,13,Black,180,evikaaaaa,211,-31,Loss,checkmated,Rapid,600,Unknown,B02,B,45,evikaaaaa won by checkmate,0,1,0,<600
+2025-04-09,2025-04,Wednesday,18,White,172,MyriamJass,177,-5,Loss,abandoned,Rapid,600,Unknown,A00,A,3,MyriamJass won - game abandoned,0,1,0,<600
+2025-04-09,2025-04,Wednesday,18,Black,164,Ramakant-S,163,1,Loss,checkmated,Rapid,600,Unknown,B02,B,36,Ramakant-S won by checkmate,0,1,0,<600
+2025-04-09,2025-04,Wednesday,18,White,156,chessnotcheckershomie01,192,-36,Loss,checkmated,Rapid,600,Unknown,A00,A,30,chessnotcheckershomie01 won by checkmate,0,1,0,<600
+2025-04-09,2025-04,Wednesday,19,Black,148,ARYAN05611,170,-22,Loss,resigned,Rapid,600,Unknown,A45,A,22,ARYAN05611 won by resignation,0,1,0,<600
+2025-04-09,2025-04,Wednesday,19,Black,148,SAHIL_RAJ23,150,-2,Draw,agreed,Rapid,600,Unknown,B02,B,34,Game drawn by agreement,0,0,1,<600
+2025-04-09,2025-04,Wednesday,19,White,156,RX3W,150,6,Win,win,Rapid,600,Unknown,A00,A,12,zeagel_og won by resignation,1,0,0,<600
+2025-04-09,2025-04,Wednesday,19,White,164,Belenlga,131,33,Win,win,Rapid,600,Unknown,A00,A,17,zeagel_og won - game abandoned,1,0,0,<600
+2025-04-23,2025-04,Wednesday,3,Black,172,MakotoYuki19,159,13,Win,win,Rapid,600,Unknown,A46,A,11,zeagel_og won by resignation,1,0,0,<600
+2025-04-23,2025-04,Wednesday,3,Black,164,zenmn777,178,-14,Loss,checkmated,Rapid,600,Unknown,A00,A,44,zenmn777 won by checkmate,0,1,0,<600
+2025-04-23,2025-04,Wednesday,3,White,164,zenmn777,178,-14,Draw,stalemate,Rapid,600,Unknown,A00,A,57,Game drawn by stalemate,0,0,1,<600
+2025-04-23,2025-04,Wednesday,3,White,156,2Zacy,182,-26,Loss,resigned,Rapid,600,Unknown,A00,A,24,2Zacy won by resignation,0,1,0,<600
+2025-04-25,2025-04,Friday,20,Black,148,mishraaa12,144,4,Loss,checkmated,Rapid,600,Unknown,B02,B,38,mishraaa12 won by checkmate,0,1,0,<600
+2025-04-25,2025-04,Friday,21,White,148,ARTORICAL,152,-4,Draw,stalemate,Rapid,600,Unknown,A00,A,81,Game drawn by stalemate,0,0,1,<600
+2025-04-25,2025-04,Friday,21,Black,140,oldkurt8902,144,-4,Loss,checkmated,Rapid,600,Unknown,B02,B,11,oldkurt8902 won by checkmate,0,1,0,<600
+2025-04-26,2025-04,Saturday,15,White,148,SexYGrill2footpiness,153,-5,Win,win,Rapid,600,Unknown,A00,A,40,zeagel_og won by resignation,1,0,0,<600
+2025-04-26,2025-04,Saturday,15,Black,140,aksfatima,136,4,Loss,abandoned,Rapid,600,Unknown,B00,B,44,aksfatima won - game abandoned,0,1,0,<600
+2025-04-27,2025-04,Sunday,12,Black,140,Armyman1999,139,1,Draw,stalemate,Rapid,600,Unknown,A50,A,60,Game drawn by stalemate,0,0,1,<600
+2025-04-27,2025-04,Sunday,12,White,132,alipla,156,-24,Loss,checkmated,Rapid,600,Unknown,A04,A,12,alipla won by checkmate,0,1,0,<600
+2025-04-27,2025-04,Sunday,12,Black,140,dipak57101,132,8,Win,win,Rapid,600,Unknown,A00,A,48,zeagel_og won - game abandoned,1,0,0,<600
+2025-04-27,2025-04,Sunday,12,White,132,Radopotok,157,-25,Loss,abandoned,Rapid,600,Unknown,A04,A,6,Radopotok won - game abandoned,0,1,0,<600
+2025-04-28,2025-04,Monday,7,White,124,Luk8s8,144,-20,Loss,abandoned,Rapid,600,Unknown,A00,A,34,Luk8s8 won - game abandoned,0,1,0,<600
+2025-04-30,2025-04,Wednesday,3,Black,132,karyp6,100,32,Win,win,Rapid,600,Unknown,B02,B,1,zeagel_og won - game abandoned,1,0,0,<600
+2025-04-30,2025-04,Wednesday,4,Black,124,bobagalya,150,-26,Loss,abandoned,Rapid,600,Unknown,A46,A,7,bobagalya won - game abandoned,0,1,0,<600
+2025-04-30,2025-04,Wednesday,4,White,116,Ddeadbatteriess,123,-7,Loss,abandoned,Rapid,600,Unknown,A00,A,7,Ddeadbatteriess won - game abandoned,0,1,0,<600
+2025-04-30,2025-04,Wednesday,18,White,108,LiGOAT_28,138,-30,Loss,abandoned,Rapid,600,Unknown,A06,A,7,LiGOAT_28 won - game abandoned,0,1,0,<600
+2025-05-03,2025-05,Saturday,18,Black,116,usbfleshka,111,5,Win,win,Rapid,600,Unknown,B00,B,36,zeagel_og won by resignation,1,0,0,<600
+2025-05-03,2025-05,Saturday,18,White,124,blazzicen,100,24,Win,win,Rapid,600,Unknown,A00,A,8,zeagel_og won by resignation,1,0,0,<600
+2025-05-03,2025-05,Saturday,18,Black,131,Paul151Terry,100,31,Win,win,Rapid,600,Unknown,B02,B,10,zeagel_og won by resignation,1,0,0,<600
+2025-05-03,2025-05,Saturday,18,White,132,rao_shab_boy_6666,153,-21,Draw,repetition,Rapid,600,Unknown,A00,A,65,Game drawn by repetition,0,0,1,<600
+2025-05-04,2025-05,Sunday,10,Black,140,olgahohor,141,-1,Win,win,Rapid,600,Unknown,B02,B,47,zeagel_og won on time,1,0,0,<600
+2025-05-04,2025-05,Sunday,10,Black,147,parmeeti,109,38,Win,win,Rapid,600,Unknown,A00,A,1,zeagel_og won by resignation,1,0,0,<600
+2025-05-04,2025-05,Sunday,12,White,154,dhruv2309,111,43,Win,win,Rapid,600,Unknown,A00,A,14,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-05,2025-05,Monday,12,Black,146,KayanChess999,172,-26,Loss,checkmated,Rapid,600,Unknown,B00,B,25,KayanChess999 won by checkmate,0,1,0,<600
+2025-05-05,2025-05,Monday,12,White,154,lysik1997,119,35,Win,win,Rapid,600,Unknown,A00,A,39,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-05,2025-05,Monday,13,Black,146,AD197014,156,-10,Loss,resigned,Rapid,600,Unknown,B00,B,18,AD197014 won by resignation,0,1,0,<600
+2025-05-06,2025-05,Tuesday,11,White,153,ism_l,117,36,Win,win,Rapid,600,Unknown,A00,A,3,zeagel_og won by resignation,1,0,0,<600
+2025-05-06,2025-05,Tuesday,11,Black,146,virson44,182,-36,Loss,abandoned,Rapid,600,Unknown,A45,A,9,virson44 won - game abandoned,0,1,0,<600
+2025-05-06,2025-05,Tuesday,12,White,154,ladyludichris,130,24,Win,win,Rapid,600,Unknown,A00,A,46,zeagel_og won by resignation,1,0,0,<600
+2025-05-06,2025-05,Tuesday,12,White,153,Drift_Prezi,132,21,Draw,insufficient,Rapid,600,Unknown,A00,A,52,Game drawn by insufficient material,0,0,1,<600
+2025-05-06,2025-05,Tuesday,12,Black,161,Gibrans10,155,6,Win,win,Rapid,600,Unknown,A00,A,24,zeagel_og won by resignation,1,0,0,<600
+2025-05-06,2025-05,Tuesday,12,Black,169,ARFD655,138,31,Win,win,Rapid,600,Unknown,B02,B,18,zeagel_og won by resignation,1,0,0,<600
+2025-05-06,2025-05,Tuesday,12,White,161,Georgiiooo,195,-34,Loss,abandoned,Rapid,600,Unknown,A00,A,6,Georgiiooo won - game abandoned,0,1,0,<600
+2025-05-06,2025-05,Tuesday,12,White,169,aliabohamida,142,27,Win,win,Rapid,600,Unknown,A00,A,13,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-06,2025-05,Tuesday,13,Black,161,omgiflumcsm,198,-37,Loss,checkmated,Rapid,600,Unknown,A45,A,53,omgiflumcsm won by checkmate,0,1,0,<600
+2025-05-06,2025-05,Tuesday,13,White,153,Akimbo_K,163,-10,Loss,checkmated,Rapid,600,Unknown,A00,A,45,Akimbo_K won by checkmate,0,1,0,<600
+2025-05-06,2025-05,Tuesday,13,Black,153,blake21303,143,10,Draw,agreed,Rapid,600,Unknown,A46,A,63,Game drawn by agreement,0,0,1,<600
+2025-05-06,2025-05,Tuesday,13,White,145,DishiPai,167,-22,Loss,abandoned,Rapid,600,Unknown,A06,A,9,DishiPai won - game abandoned,0,1,0,<600
+2025-05-06,2025-05,Tuesday,13,White,137,Sandro_1949,138,-1,Loss,checkmated,Rapid,600,Unknown,A00,A,21,Sandro_1949 won by checkmate,0,1,0,<600
+2025-05-06,2025-05,Tuesday,16,Black,145,UmpaLumpaKs,150,-5,Win,win,Rapid,600,Unknown,B02,B,53,zeagel_og won by resignation,1,0,0,<600
+2025-05-06,2025-05,Tuesday,16,Black,136,ritz082,131,5,Loss,checkmated,Rapid,600,Unknown,B02,B,50,ritz082 won by checkmate,0,1,0,<600
+2025-05-06,2025-05,Tuesday,16,White,144,arenarad,132,12,Win,win,Rapid,600,Unknown,A00,A,3,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-06,2025-05,Tuesday,16,Black,153,gerotezuka,168,-15,Win,win,Rapid,600,Unknown,B02,B,13,zeagel_og won by resignation,1,0,0,<600
+2025-05-06,2025-05,Tuesday,17,White,153,alinkaaahmel,167,-14,Draw,stalemate,Rapid,600,Unknown,A06,A,65,Game drawn by stalemate,0,0,1,<600
+2025-05-06,2025-05,Tuesday,17,Black,145,colonelllllll,169,-24,Loss,checkmated,Rapid,600,Unknown,A45,A,56,colonelllllll won by checkmate,0,1,0,<600
+2025-05-06,2025-05,Tuesday,17,White,137,laZpat,162,-25,Loss,resigned,Rapid,600,Unknown,A00,A,23,laZpat won by resignation,0,1,0,<600
+2025-05-07,2025-05,Wednesday,10,White,145,Ali259Hb,125,20,Win,win,Rapid,600,Unknown,A00,A,14,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-07,2025-05,Wednesday,10,White,146,kukuryk123,186,-40,Draw,stalemate,Rapid,600,Unknown,A04,A,69,Game drawn by stalemate,0,0,1,<600
+2025-05-07,2025-05,Wednesday,10,Black,138,deeyaluitel,165,-27,Loss,timeout,Rapid,600,Unknown,B02,B,34,deeyaluitel won on time,0,1,0,<600
+2025-05-07,2025-05,Wednesday,10,White,146,143suni,109,37,Win,win,Rapid,600,Unknown,A00,A,55,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-07,2025-05,Wednesday,10,Black,154,strawties,122,32,Win,win,Rapid,600,Unknown,A00,A,37,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-07,2025-05,Wednesday,10,White,161,zakiafzm,100,61,Win,win,Rapid,600,Unknown,A00,A,2,zeagel_og won by resignation,1,0,0,<600
+2025-05-07,2025-05,Wednesday,11,Black,161,Tabbu07,152,9,Draw,stalemate,Rapid,600,Unknown,A05,A,51,Game drawn by stalemate,0,0,1,<600
+2025-05-07,2025-05,Wednesday,11,Black,169,saroj26anuj,135,34,Win,win,Rapid,600,Unknown,A45,A,49,zeagel_og won on time,1,0,0,<600
+2025-05-07,2025-05,Wednesday,11,White,169,0merovich,177,-8,Draw,stalemate,Rapid,600,Unknown,A00,A,64,Game drawn by stalemate,0,0,1,<600
+2025-05-07,2025-05,Wednesday,11,Black,177,Rathulrd,148,29,Win,win,Rapid,600,Unknown,B00,B,35,zeagel_og won on time,1,0,0,<600
+2025-05-07,2025-05,Wednesday,11,Black,177,Mostafa2244,176,1,Draw,agreed,Rapid,600,Unknown,A00,A,12,Game drawn by agreement,0,0,1,<600
+2025-05-07,2025-05,Wednesday,12,White,169,nnnnnnnnij,176,-7,Loss,checkmated,Rapid,600,Unknown,A00,A,36,nnnnnnnnij won by checkmate,0,1,0,<600
+2025-05-07,2025-05,Wednesday,12,Black,170,louis-riv,190,-20,Draw,agreed,Rapid,600,Unknown,A40,A,24,Game drawn by agreement,0,0,1,<600
+2025-05-07,2025-05,Wednesday,12,White,178,KAYMOY_BREEZE,159,19,Win,win,Rapid,600,Unknown,A00,A,10,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-07,2025-05,Wednesday,20,Black,170,Daymondine,205,-35,Loss,abandoned,Rapid,600,Unknown,A00,A,35,Daymondine won - game abandoned,0,1,0,<600
+2025-05-07,2025-05,Wednesday,20,White,178,e_1ah,147,31,Win,win,Rapid,600,Unknown,A00,A,27,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-07,2025-05,Wednesday,20,Black,186,jeff0011_pr,171,15,Win,win,Rapid,600,Unknown,A00,A,13,zeagel_og won by resignation,1,0,0,<600
+2025-05-07,2025-05,Wednesday,20,White,195,Brio112,200,-5,Win,win,Rapid,600,Unknown,A00,A,4,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-07,2025-05,Wednesday,21,Black,187,EatMyBubblesBruh,188,-1,Loss,checkmated,Rapid,600,Unknown,A45,A,57,EatMyBubblesBruh won by checkmate,0,1,0,<600
+2025-05-07,2025-05,Wednesday,21,White,179,CharlestonRuyLopez,214,-35,Loss,checkmated,Rapid,600,Unknown,A00,A,37,CharlestonRuyLopez won by checkmate,0,1,0,<600
+2025-05-07,2025-05,Wednesday,21,White,172,Carlopic,213,-41,Loss,checkmated,Rapid,600,Unknown,A00,A,15,Carlopic won by checkmate,0,1,0,<600
+2025-05-07,2025-05,Wednesday,21,White,164,sanimery,168,-4,Loss,checkmated,Rapid,600,Unknown,A06,A,57,sanimery won by checkmate,0,1,0,<600
+2025-05-07,2025-05,Wednesday,21,Black,172,ManojkumarRajanna,154,18,Win,win,Rapid,600,Unknown,A00,A,9,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-07,2025-05,Wednesday,21,Black,164,to69xx,196,-32,Loss,checkmated,Rapid,600,Unknown,A45,A,32,to69xx won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,7,Black,157,mihir_bodele,193,-36,Loss,checkmated,Rapid,600,Unknown,A00,A,34,mihir_bodele won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,8,White,148,thechriswinn,112,36,Loss,resigned,Rapid,600,Unknown,A00,A,31,thechriswinn won by resignation,0,1,0,<600
+2025-05-08,2025-05,Thursday,8,White,156,Ammarmageddon,149,7,Win,win,Rapid,600,Unknown,A00,A,49,zeagel_og won on time,1,0,0,<600
+2025-05-08,2025-05,Thursday,8,White,156,Gustaf_Luktar_Bad,167,-11,Draw,agreed,Rapid,600,Unknown,A00,A,10,Game drawn by agreement,0,0,1,<600
+2025-05-08,2025-05,Thursday,9,Black,148,alexandrebxd31,181,-33,Loss,resigned,Rapid,600,Unknown,A45,A,25,alexandrebxd31 won by resignation,0,1,0,<600
+2025-05-08,2025-05,Thursday,10,Black,148,Jay112403,166,-18,Draw,stalemate,Rapid,600,Unknown,A45,A,52,Game drawn by stalemate,0,0,1,<600
+2025-05-08,2025-05,Thursday,10,Black,156,ramlichess25,126,30,Win,win,Rapid,600,Unknown,A00,A,3,zeagel_og won by resignation,1,0,0,<600
+2025-05-08,2025-05,Thursday,10,White,148,OnlyLiight,180,-32,Loss,checkmated,Rapid,600,Unknown,A00,A,57,OnlyLiight won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,11,Black,140,Jiji9260,178,-38,Loss,checkmated,Rapid,600,Unknown,A05,A,38,Jiji9260 won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,11,White,132,Laserr_08,134,-2,Loss,checkmated,Rapid,600,Unknown,A00,A,36,Laserr_08 won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,11,White,140,quadro125,125,15,Win,win,Rapid,600,Unknown,A00,A,30,zeagel_og won by resignation,1,0,0,<600
+2025-05-08,2025-05,Thursday,12,Black,148,xanaxxq,130,18,Win,win,Rapid,600,Unknown,B00,B,23,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-08,2025-05,Thursday,12,White,140,NOT7FUNNY,159,-19,Loss,abandoned,Rapid,600,Unknown,A04,A,12,NOT7FUNNY won - game abandoned,0,1,0,<600
+2025-05-08,2025-05,Thursday,12,Black,132,zack_66r,161,-29,Loss,resigned,Rapid,600,Unknown,B02,B,68,zack_66r won by resignation,0,1,0,<600
+2025-05-08,2025-05,Thursday,13,Black,124,NOUR-MASRE,154,-30,Loss,checkmated,Rapid,600,Unknown,B00,B,59,NOUR-MASRE won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,13,White,132,Connor383992,101,31,Win,win,Rapid,600,Unknown,A00,A,17,zeagel_og won by resignation,1,0,0,<600
+2025-05-08,2025-05,Thursday,13,Black,140,hamidoulepigeon,129,11,Win,win,Rapid,600,Unknown,B02,B,47,zeagel_og won by checkmate,1,0,0,<600
+2025-05-08,2025-05,Thursday,13,White,132,sami3186,141,-9,Loss,checkmated,Rapid,600,Unknown,A00,A,17,sami3186 won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,13,Black,124,ouiuoiio,148,-24,Loss,checkmated,Rapid,600,Unknown,A00,A,9,ouiuoiio won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,16,White,116,geucabi,143,-27,Loss,resigned,Rapid,600,Unknown,A00,A,22,geucabi won by resignation,0,1,0,<600
+2025-05-08,2025-05,Thursday,16,Black,124,Alidjonnnn,105,19,Win,win,Rapid,600,Unknown,B02,B,30,zeagel_og won by resignation,1,0,0,<600
+2025-05-08,2025-05,Thursday,16,Black,132,gavinricard,100,32,Win,win,Rapid,600,Unknown,B00,B,11,zeagel_og won by resignation,1,0,0,<600
+2025-05-08,2025-05,Thursday,16,White,139,ChristopherMoreiradas,101,38,Win,win,Rapid,600,Unknown,B00,B,38,zeagel_og won by checkmate,1,0,0,<600
+2025-05-08,2025-05,Thursday,16,White,147,olzop,123,24,Win,win,Rapid,600,Unknown,A00,A,11,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-08,2025-05,Thursday,16,Black,155,bryandutra,147,8,Win,win,Rapid,600,Unknown,A45,A,23,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-08,2025-05,Thursday,17,Black,147,Statz67,150,-3,Loss,checkmated,Rapid,600,Unknown,B00,B,55,Statz67 won by checkmate,0,1,0,<600
+2025-05-08,2025-05,Thursday,17,White,147,chessmasterwhoisrich21,148,-1,Draw,agreed,Rapid,600,Unknown,A04,A,46,Game drawn by agreement,0,0,1,<600
+2025-05-08,2025-05,Thursday,18,Black,139,kamwaN1976,170,-31,Loss,resigned,Rapid,600,Unknown,A45,A,35,kamwaN1976 won by resignation,0,1,0,<600
+2025-05-09,2025-05,Friday,18,White,147,abdiashimova2108,110,37,Win,win,Rapid,600,Unknown,A00,A,17,zeagel_og won by resignation,1,0,0,<600
+2025-05-09,2025-05,Friday,18,White,155,Tititybzz,121,34,Win,win,Rapid,600,Unknown,A00,A,18,zeagel_og won by resignation,1,0,0,<600
+2025-05-09,2025-05,Friday,18,Black,163,Ameeer1234,146,17,Win,win,Rapid,600,Unknown,B02,B,6,zeagel_og won by resignation,1,0,0,<600
+2025-05-09,2025-05,Friday,18,White,163,addi_lovesjesus,142,21,Draw,agreed,Rapid,600,Unknown,A00,A,16,Game drawn by agreement,0,0,1,<600
+2025-05-10,2025-05,Saturday,6,Black,171,bernardchr,140,31,Win,win,Rapid,600,Unknown,A45,A,19,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-10,2025-05,Saturday,7,White,163,Raskaseh,176,-13,Loss,checkmated,Rapid,600,Unknown,A00,A,74,Raskaseh won by checkmate,0,1,0,<600
+2025-05-10,2025-05,Saturday,7,White,172,ramandeep5765,176,-4,Win,win,Rapid,600,Unknown,A00,A,45,zeagel_og won by checkmate,1,0,0,<600
+2025-05-10,2025-05,Saturday,9,White,180,SouZy0,147,33,Win,win,Rapid,600,Unknown,A00,A,31,zeagel_og won - game abandoned,1,0,0,<600
+2025-05-10,2025-05,Saturday,9,Black,172,x-9089805304,194,-22,Loss,checkmated,Rapid,600,Unknown,B00,B,70,bernardferreirf won by checkmate,0,1,0,<600
+2025-05-10,2025-05,Saturday,9,White,180,m1sterf1s,168,12,Win,win,Rapid,600,Unknown,A04,A,7,zeagel_og won by resignation,1,0,0,<600
+2025-05-10,2025-05,Saturday,10,White,187,Jokatero,150,37,Win,win,Rapid,600,Unknown,A00,A,66,zeagel_og won by checkmate,1,0,0,<600
+2025-05-15,2025-05,Thursday,15,Black,195,Batsoto,188,7,Win,win,Rapid,600,Unknown,B00,B,41,zeagel_og won by resignation,1,0,0,<600
+2025-05-17,2025-05,Saturday,8,Black,203,pushkar605812345,198,5,Win,win,Rapid,600,Unknown,A40,A,15,zeagel_og won by resignation,1,0,0,<600
+2025-05-17,2025-05,Saturday,8,Black,195,noursameh2003,228,-33,Loss,resigned,Rapid,600,Unknown,C00,C,38,noursameh2003 won by resignation,0,1,0,<600
+2025-05-20,2025-05,Tuesday,17,White,203,jsptropenvrai,208,-5,Win,win,Rapid,600,Unknown,A00,A,47,zeagel_og won by checkmate,1,0,0,<600
+2025-05-20,2025-05,Tuesday,17,Black,195,Chrissies65,212,-17,Loss,resigned,Rapid,600,Unknown,A00,A,34,Chrissies65 won by resignation,0,1,0,<600
+2025-06-04,2025-06,Wednesday,8,White,203,thomasl974,180,23,Win,win,Rapid,600,Unknown,A00,A,40,zeagel_og won by resignation,1,0,0,<600
+2025-06-04,2025-06,Wednesday,9,Black,195,RAFsimons2001,224,-29,Loss,abandoned,Rapid,600,Unknown,C00,C,18,RAFsimons2001 won - game abandoned,0,1,0,<600
+2025-06-04,2025-06,Wednesday,18,White,187,yannaraujo21gmailcom,209,-22,Loss,checkmated,Rapid,600,Unknown,A00,A,23,yannaraujo21gmailcom won by checkmate,0,1,0,<600
+2025-06-04,2025-06,Wednesday,19,Black,179,Konst2013,197,-18,Loss,abandoned,Rapid,600,Unknown,A00,A,4,Konst2013 won - game abandoned,0,1,0,<600
+2025-06-07,2025-06,Saturday,15,Black,179,Joann-Omas-As,165,14,Draw,agreed,Rapid,600,Unknown,B00,B,34,Game drawn by agreement,0,0,1,<600
+2025-06-07,2025-06,Saturday,15,White,179,mzmzmk,197,-18,Draw,stalemate,Rapid,600,Unknown,A00,A,49,Game drawn by stalemate,0,0,1,<600
+2025-06-07,2025-06,Saturday,15,White,170,innocentmbam,144,26,Loss,resigned,Rapid,600,Unknown,A00,A,32,innocentmbam won by resignation,0,1,0,<600
+2025-06-21,2025-06,Saturday,8,White,162,Mukundh15,181,-19,Loss,resigned,Rapid,600,Unknown,A00,A,20,Mukundh15 won by resignation,0,1,0,<600
+2025-06-25,2025-06,Wednesday,19,Black,162,angy1306,141,21,Draw,stalemate,Rapid,600,Unknown,A45,A,59,Game drawn by stalemate,0,0,1,<600
+2025-06-25,2025-06,Wednesday,19,White,170,LucasGutVar,165,5,Win,win,Rapid,600,Unknown,A00,A,54,zeagel_og won by resignation,1,0,0,<600
+2025-06-25,2025-06,Wednesday,19,Black,177,JayPureGamer,100,77,Win,win,Rapid,600,Unknown,C00,C,1,zeagel_og won by resignation,1,0,0,<600
+2025-06-25,2025-06,Wednesday,20,Black,185,Jw23knight,178,7,Win,win,Rapid,600,Unknown,C00,C,40,zeagel_og won by checkmate,1,0,0,<600
+2025-06-25,2025-06,Wednesday,20,Black,193,vinoth271088,174,19,Win,win,Rapid,600,Unknown,B02,B,57,zeagel_og won by checkmate,1,0,0,<600
+2025-06-25,2025-06,Wednesday,20,White,184,Alishaswain,179,5,Loss,checkmated,Rapid,600,Unknown,A00,A,34,Alishaswain won by checkmate,0,1,0,<600
+2025-06-25,2025-06,Wednesday,20,Black,184,Maomen_17,164,20,Draw,stalemate,Rapid,600,Unknown,A40,A,65,Game drawn by stalemate,0,0,1,<600
+2025-06-25,2025-06,Wednesday,20,White,192,OmarAmeen1965,183,9,Win,win,Rapid,600,Unknown,A00,A,33,zeagel_og won by resignation,1,0,0,<600
+2025-06-25,2025-06,Wednesday,20,Black,184,maloletka666,217,-33,Loss,resigned,Rapid,600,Unknown,B02,B,4,maloletka666 won by resignation,0,1,0,<600
+2025-06-29,2025-06,Sunday,12,Black,176,fabzabdul,196,-20,Loss,resigned,Rapid,600,Unknown,B07,B,61,fabzabdul won by resignation,0,1,0,<600
+2025-07-07,2025-07,Monday,7,White,184,queenjuju_s2,166,18,Win,win,Rapid,600,Unknown,A00,A,16,zeagel_og won by resignation,1,0,0,<600
+2025-07-07,2025-07,Monday,7,White,176,axeliskandar,193,-17,Loss,resigned,Rapid,600,Unknown,A00,A,15,axeliskandar won by resignation,0,1,0,<600
+2025-07-07,2025-07,Monday,7,Black,184,Kappa_ka,162,22,Win,win,Rapid,600,Unknown,B02,B,12,zeagel_og won by resignation,1,0,0,<600
+2025-07-07,2025-07,Monday,7,Black,192,e5lis,167,25,Win,win,Rapid,600,Unknown,A05,A,7,zeagel_og won - game abandoned,1,0,0,<600
+2025-07-07,2025-07,Monday,7,White,200,faraohach,181,19,Win,win,Rapid,600,Unknown,A04,A,52,zeagel_og won by checkmate,1,0,0,<600
+2025-07-07,2025-07,Monday,7,Black,192,rachidbennacef,221,-29,Loss,abandoned,Rapid,600,Unknown,B00,B,8,rachidbennacef won - game abandoned,0,1,0,<600
+2025-07-07,2025-07,Monday,7,White,184,Karavau,220,-36,Loss,abandoned,Rapid,600,Unknown,A00,A,7,Karavau won - game abandoned,0,1,0,<600
+2025-07-07,2025-07,Monday,8,White,176,mokhalid111,206,-30,Loss,abandoned,Rapid,600,Unknown,A00,A,14,mokhalid111 won - game abandoned,0,1,0,<600
+2025-07-07,2025-07,Monday,8,White,168,EKI404ERROR,193,-25,Loss,resigned,Rapid,600,Unknown,A00,A,13,EKI404ERROR won by resignation,0,1,0,<600
+2025-07-09,2025-07,Wednesday,9,Black,160,Dandelpi,169,-9,Loss,resigned,Rapid,600,Unknown,A00,A,27,Dandelpi won by resignation,0,1,0,<600
+2025-07-09,2025-07,Wednesday,9,Black,152,SelvanTheSilentSaint,187,-35,Loss,abandoned,Rapid,600,Unknown,B02,B,15,SelvanTheSilentSaint won - game abandoned,0,1,0,<600
+2025-07-11,2025-07,Friday,15,Black,144,Sujeet975310,166,-22,Loss,abandoned,Rapid,600,Unknown,A00,A,61,Sujeet975310 won - game abandoned,0,1,0,<600
+2025-07-12,2025-07,Saturday,8,White,152,proudwarden910,152,0,Win,win,Rapid,600,Unknown,A00,A,56,zeagel_og won by checkmate,1,0,0,<600
+2025-07-12,2025-07,Saturday,8,Black,160,mike882022,142,18,Win,win,Rapid,600,Unknown,A05,A,10,zeagel_og won - game abandoned,1,0,0,<600
+2025-07-12,2025-07,Saturday,8,White,168,Kamalk24,151,17,Win,win,Rapid,600,Unknown,A00,A,1,zeagel_og won by resignation,1,0,0,<600
+2025-07-12,2025-07,Saturday,9,Black,160,jcrhrist,170,-10,Loss,checkmated,Rapid,600,Unknown,A46,A,40,jcrhrist won by checkmate,0,1,0,<600
+2025-07-12,2025-07,Saturday,9,White,153,Berod517,190,-37,Loss,resigned,Rapid,600,Unknown,A00,A,15,Berod517 won by resignation,0,1,0,<600
+2025-07-17,2025-07,Thursday,16,White,161,A0W0N,133,28,Win,win,Rapid,600,Unknown,A00,A,56,zeagel_og won by checkmate,1,0,0,<600
+2025-07-17,2025-07,Thursday,16,Black,153,nxvkom,153,0,Loss,resigned,Rapid,600,Unknown,A04,A,29,nxvkom won by resignation,0,1,0,<600
+2025-07-17,2025-07,Thursday,16,White,145,zeeka15,154,-9,Loss,resigned,Rapid,600,Unknown,A00,A,15,zeeka15 won by resignation,0,1,0,<600
+2025-07-24,2025-07,Thursday,21,White,137,Alexandra-jls,132,5,Loss,resigned,Rapid,600,Unknown,A00,A,39,Alexandra-jls won by resignation,0,1,0,<600
+2025-08-11,2025-08,Monday,7,White,145,six0060,110,35,Win,win,Rapid,600,Unknown,A00,A,13,zeagel_og won by resignation,1,0,0,<600
+2025-08-11,2025-08,Monday,7,Black,137,ERCX20,158,-21,Loss,checkmated,Rapid,600,Unknown,A46,A,26,ERCX20 won by checkmate,0,1,0,<600
+2025-08-11,2025-08,Monday,7,Black,129,sunnymmehta,133,-4,Loss,checkmated,Rapid,600,Unknown,B02,B,6,sunnymmehta won by checkmate,0,1,0,<600
+2025-10-03,2025-10,Friday,19,White,141,2hAisha,124,17,Win,win,Rapid,600,Unknown,C46,C,4,zeagel_og won - game abandoned,1,0,0,<600
+2025-10-03,2025-10,Friday,19,Black,152,Felix59300,114,38,Win,win,Rapid,600,Unknown,A45,A,46,zeagel_og won on time,1,0,0,<600
+2025-10-03,2025-10,Friday,19,Black,152,Krishna_rawat247,154,-2,Draw,stalemate,Rapid,600,Unknown,B02,B,71,Game drawn by stalemate,0,0,1,<600
+2025-10-04,2025-10,Saturday,10,White,141,nolan_tanjiro,156,-15,Loss,checkmated,Rapid,600,Unknown,A00,A,19,nolan_tanjiro won by checkmate,0,1,0,<600
+2025-11-03,2025-11,Monday,18,White,142,hdjdkdkrk,158,-16,Draw,stalemate,Rapid,600,Unknown,A00,A,42,Game drawn by stalemate,0,0,1,<600
+2025-11-24,2025-11,Monday,15,Black,127,Jacksparrow1221,151,-24,Loss,checkmated,Rapid,600,Unknown,B00,B,8,Jacksparrow1221 won by checkmate,0,1,0,<600
+2025-11-24,2025-11,Monday,16,Black,140,kasinadhrpillai,100,40,Win,win,Rapid,600,Unknown,B00,B,11,zeagel_og won - game abandoned,1,0,0,<600
+2025-11-24,2025-11,Monday,16,White,154,daffodils-123,154,0,Win,win,Rapid,600,Unknown,A00,A,19,zeagel_og won by resignation,1,0,0,<600
+2025-11-24,2025-11,Monday,16,White,168,babybreeze,164,4,Win,win,Rapid,600,Unknown,A00,A,52,zeagel_og won on time,1,0,0,<600
+2025-11-24,2025-11,Monday,18,White,181,Ricsy31,182,-1,Win,win,Rapid,600,Unknown,A00,A,8,zeagel_og won by resignation,1,0,0,<600
+2025-11-24,2025-11,Monday,19,Black,181,sneakysob1933,169,12,Draw,insufficient,Rapid,600,Unknown,B02,B,58,Game drawn by insufficient material,0,0,1,<600
+2025-11-24,2025-11,Monday,19,Black,192,nanarley_1824,161,31,Win,win,Rapid,600,Unknown,A40,A,1,zeagel_og won - game abandoned,1,0,0,<600
+2025-11-28,2025-11,Friday,11,Black,204,Prometheus1234567890,197,7,Win,win,Rapid,600,Unknown,B02,B,12,zeagel_og won - game abandoned,1,0,0,<600
+2025-11-28,2025-11,Friday,11,White,216,Ikkass,220,-4,Win,win,Rapid,600,Unknown,A00,A,56,zeagel_og won by resignation,1,0,0,<600
+2025-11-29,2025-11,Saturday,15,Black,227,EliezerValdez,205,22,Win,win,Rapid,600,Unknown,C55,C,43,zeagel_og won by checkmate,1,0,0,<600
+2025-11-30,2025-11,Sunday,14,White,216,kael1zz,229,-13,Loss,resigned,Rapid,600,Unknown,A00,A,19,kael1zz won by resignation,0,1,0,<600
+2025-12-14,2025-12,Sunday,14,Black,217,sleepyypppp,234,-17,Draw,stalemate,Rapid,600,Unknown,A45,A,42,Game drawn by stalemate,0,0,1,<600
+2026-01-08,2026-01,Thursday,17,White,204,Airjesus22,229,-25,Loss,resigned,Rapid,600,Unknown,A04,A,17,Airjesus22 won by resignation,0,1,0,<600
