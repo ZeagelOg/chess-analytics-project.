@@ -3,7 +3,7 @@
 > Analyzing 500+ real Chess.com games using Python, SQL, Power BI, and Tableau to uncover patterns in openings, ELO progression, and win rates.
 
 ## 📊 Live Dashboards
-- 🔵 Power BI: *[link coming soon]*
+- 🔵 Power BI: *[chess_dashboard.pbix.pbix]*
 - 🟠 Tableau Public: *[link coming soon]*
 - 🟢 Looker Studio: *[link coming soon]*
 
